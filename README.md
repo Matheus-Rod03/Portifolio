@@ -25,6 +25,9 @@ Todas as páginas possuem cabeçalho de navegação para facilitar a navegação
 3. Navegue entre as páginas através do menu de navegação presente no cabeçalho.  
 
 ---
+## 📹 Vídeo de Demonstração
+
+🔗 [Clique aqui para assistir ao vídeo](https://unilavrasedu-my.sharepoint.com/:v:/g/personal/matheusrodaniel_sou_unilavras_edu_br/Ef4QH39jcFtLghmZvvj4CPIBARhwhhRpLDWU-nrBLL7AgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6a9Ke4)
 
 ## 👤 Autor
 
